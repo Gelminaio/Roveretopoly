@@ -1,2 +1,2 @@
 # Roveretopoly
-Nel 2023 ho realizzato per un compito un Monopoly multiplayer ambientato a Rovereto, usando Java e socket TCP. Il server testuale gestisce la partita, mentre da 2 a 6 client con interfaccia grafica comunicano le mosse passando sempre attraverso il server.
+In 2023 I created a multiplayer Monopoly-style game set in Rovereto for a school project, using Java and TCP sockets. A text-based server manages the game, while 2 to 6 clients with a graphical interface send moves, always communicating through the server.
